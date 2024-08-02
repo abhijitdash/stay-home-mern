@@ -1,2 +1,2 @@
 # stay-home-mern
-It is a home stay app
+A platform where owners can list their properties and travellers can book their home stays
